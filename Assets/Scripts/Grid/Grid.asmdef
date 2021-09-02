@@ -1,0 +1,17 @@
+{
+    "name": "Grid",
+    "rootNamespace": "Grid3D",
+    "references": [
+        "GUID:a17e8edc234a49cd8a91769c47936f0c",
+        "GUID:1a7db96b030a43f99a7c05ecd176b1ac"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
